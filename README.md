@@ -1,4 +1,4 @@
-# Vanadium **BETA**
+# Vanadium BETA
 A traditional proxy site for use in combating web filters.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
