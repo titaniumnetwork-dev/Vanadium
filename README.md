@@ -3,13 +3,14 @@ A traditional proxy site for use in combating web filters.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## Running locally
+## Setup
 
 ```sh
-git clone `insert url`
-cd p3-master
-node server.js
+git clone `https://github.com/titaniumnetwork-dev/Vanadium`
+cd Vanadium
+npm start
 ```
+
 ## Config example
 
 `"port": "8080"` = Sets HTTP server port of web proxy.
