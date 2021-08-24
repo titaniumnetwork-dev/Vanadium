@@ -1,0 +1,7 @@
+{
+    "port": "8080",
+    "ssl": false,
+    "prefix": "/search/",
+    "localAddresses": [],
+    "blockedHostnames": ["pornhub.com", "xvideos.com", "murrtube.net"]
+}
