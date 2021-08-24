@@ -1,33 +1,33 @@
 {
-  "name": "vanadium",
-  "version": "1.0.0",
-  "description": "A powerful web-proxy site powered by Corrosion",
-  "main": "server.js",
-  "scripts": {
-    "test": "node server.js",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/titaniumnetwork-dev/P3.git"
-  },
-  "keywords": [
-    "web",
-    "proxy",
-    "corrosion",
-    "titaniumnetwork",
-    "vanadium"
-  ],
-  "author": "LinuxTerm and LQ16",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/titaniumnetwork-dev/P3/issues"
-  },
-  "homepage": "https://github.com/titaniumnetwork-dev/P3#readme",
-  "dependencies": {
-    "corrosion": "^1.0.0",
-    "express": "^4.17.1",
-    "fs": "^0.0.1-security",
-    "ws": "^8.2.0"
-  }
+    "name": "vanadium",
+    "version": "1.0.0",
+    "description": "A powerful web-proxy site powered by Corrosion",
+    "main": "server.js",
+    "scripts": {
+        "test": "node server.js",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/titaniumnetwork-dev/P3.git"
+    },
+    "keywords": [
+        "web",
+        "proxy",
+        "corrosion",
+        "titaniumnetwork",
+        "vanadium"
+    ],
+    "author": "LinuxTerm and LQ16",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/titaniumnetwork-dev/P3/issues"
+    },
+    "homepage": "https://github.com/titaniumnetwork-dev/P3#readme",
+    "dependencies": {
+        "corrosion": "^1.0.0",
+        "express": "^4.17.1",
+        "fs": "^0.0.1-security",
+        "ws": "^8.2.0"
+    }
 }
