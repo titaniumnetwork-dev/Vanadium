@@ -3,5 +3,5 @@
     "description": "High quality Web-Proxy based around the Corrosion proxy framework.",
     "repository": "ihttps://github.com/titaniumnetwork-dev/vanadium",
     "logo": "https://avatars.githubusercontent.com/u/47227492?s=200&v=4",
-    "keywords": ["corrosion", "proxy", "web-unblocker", "internet", "alloyproxy", "gaming", "unblock", "vanadium"]
+    "keywords": ["corrosion", "proxy", "web-unblocker", "internet", "gaming", "unblock", "vanadium"]
 }
