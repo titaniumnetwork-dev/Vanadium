@@ -1,0 +1,156 @@
+Within this file are the following legal documents in the order in which they are listed: Acceptable Use Policy (AUP), Privacy Policy, Terms of Service.
+
+
+Last updated: August 24, 2021
+
+---------------------------
+-- Acceptable Use Policy --
+---------------------------
+
+
+Prohibited activities and uses
+
+You may not use the Services to publish content or engage in activity that is illegal under applicable law, that is harmful to others, or that would subject us to liability, including, without limitation, in connection with any of the following, each of which is prohibited under this Policy:
+
+- Distributing malware or other malicious code.
+- Disclosing sensitive personal information about others.
+- Collecting, or attempting to collect, personal information about third parties without their knowledge or consent.
+- Distributing, or viewing pornography or adult related content.
+- Promoting or facilitating prostitution or any escort services.
+- Hosting, distributing or linking to child pornography or content that is harmful to minors.
+- Promoting or facilitating gambling, violence, terrorist activities or selling weapons or ammunition.
+- Engaging in the unlawful distribution of controlled substances, drug contraband or prescription medications.
+- Managing payment aggregators or facilitators such as processing payments on behalf of other businesses or charities.
+- Facilitating pyramid schemes or other models intended to seek payments from public actors.
+- Threatening harm to persons or property or otherwise harassing behavior.
+- Infringing the intellectual property or other proprietary rights of others.
+- Facilitating, aiding, or encouraging any of the above activities through our Services.
+
+
+-System abuse-
+
+Any User in violation of our Services security is subject to immediate account termination and barring of access to all services. Examples include, but are not limited to the following:
+- Use or distribution of tools designed for compromising security of the Services.
+- Intentionally or negligently transmitting files containing a computer virus or corrupted data.
+- Accessing another network without permission, including to probe or scan for vulnerabilities or breach security or authentication measures.
+- Unauthorized scanning or monitoring of data on any network or system without proper authorization of the owner of the system or network.
+
+-Service resources-
+
+You may not consume excessive amounts of the Services or use the Services in any way which results in performance issues or which interrupts the services for other Users. Prohibited activities that contribute to excessive use, include without limitation:
+- Deliberate attempts to overload the Services and broadcast attacks (i.e. denial of service attacks).
+- Engaging in any other activities that degrade the usability and performance of our Services.
+
+-No spam policy-
+
+You may not use our Services to send spam or bulk unsolicited messages. We maintain a zero tolerance policy for use of our Services in any manner associated with the transmission, distribution or delivery of any bulk e-mail, including unsolicited bulk or unsolicited commercial e-mail, or the sending, assisting, or commissioning the transmission of commercial e-mail that does not comply with the U.S. CAN-SPAM Act of 2003 ("SPAM").
+Your products or services advertised via SPAM (i.e. Spamvertised) may not be used in conjunction with our Services. This provision includes, but is not limited to, SPAM sent via fax, phone, postal mail, email, instant messaging, or newsgroups.
+Sending emails through our Services to purchased email lists ("safe lists") will be treated as SPAM.
+Defamation and objectionable content
+We value the freedom of expression and encourage Users to be respectful with the content they post. We are not a publisher of User content and are not in a position to investigate the veracity of individual defamation claims or to determine whether certain material, which we may find objectionable, should be censored. However, we reserve the right to moderate, disable or remove any content to prevent harm to others or to us or our Services, as determined in our sole discretion.
+
+-Copyrighted content-
+
+Copyrighted material must not be published via our Services without the explicit permission of the copyright owner or a person explicitly authorized to give such permission by the copyright owner. Upon receipt of a claim for copyright infringement, or a notice of such violation, we will immediately run full investigation and, upon confirmation, will notify the person or persons responsible for publishing it and, in our sole discretion, will remove the infringing material from the Services. We may terminate the Service of Users with repeated copyright infringements. Further procedures may be carried out if necessary. We will assume no liability to any User of the Services for the removal of any such material.
+If you believe your copyright is being infringed by a person or persons using our Services, please send a report of the copyright infringement to the contact details listed at the end of this Policy.
+
+-Enforcement-
+
+We reserve our right to be the sole arbiter in determining the seriousness of each infringement and to immediately take corrective actions, including but not limited to:
+- Suspending or terminating your Service with or without notice upon any violation of this Policy.
+- Disabling or removing any content which is prohibited by this Policy, including to prevent harm to others or to us or our Services, as determined by us in our sole discretion.
+- Reporting violations to law enforcement as determined by us in our sole discretion.
+- A failure to respond to an email from our abuse team within 2 days, or as otherwise specified in the communication to you, may result in the suspension or termination of your Services.
+Nothing contained in this Policy shall be construed to limit our actions or remedies in any way with respect to any of the prohibited activities. In addition, we reserve at all times all rights and remedies available to us with respect to such activities at law or in equity.
+
+
+--------------------------
+-----Terms of Service ----
+--------------------------
+
+Terms of Service ("Terms")
+
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using this website (the "Service") operated by TitaniumNetwork ("this", "us", "we", or "our").
+
+Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
+
+By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.
+
+Links To Other Web Sites:
+
+Our Service may contain links to third-party web sites or services that are not owned or controlled by TitaniumNetwork.
+
+TitaniumNetwork has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that TitaniumNetwork shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+
+Websites, content, and services accessed through TitaniumNetwork's proxy services are still classified as 3rd party websites and will be treated as such.
+
+We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.
+
+Governing Law:
+
+These Terms shall be governed and construed in accordance with the laws of Ohio, United States, without regard to its conflict of law provisions.
+
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.
+Changes
+
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+
+By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.
+Contact Us
+
+If you have any questions about these Terms, please contact us.
+
+------------------
+--Privacy Policy--
+------------------
+
+
+Thank you for choosing to be part of our community at TitaniumNetwork (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our notice, or our practices with regards to your personal information, please contact us at nullnvoid@mailfence.com.
+
+
+When you visit our website (or any related websites), and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Sites and our services.
+This privacy notice applies to all information collected through our website, and/or any related services, sales, marketing or events (we refer to them collectively in this privacy notice as the "Services").
+Please read this privacy notice carefully as it will help you make informed decisions about sharing your personal information with us.
+
+--Preamble--
+
+Do note that all users must be 13 years of age or older in order to use the forum and chatbox, this is due to the information which can be collected and/or transmitted via these communication platforms.
+If users of said services are under the age of 13, their access will be terminated immediately upon us being made aware, and an investigation being carried out.
+No personally identifiable information is collected via the proxy service(s). The only collected information is bare server logs, which is an encrypted version of the visited URL, the date and time, and the user's IP address.
+We do not know which websites users visit, and these logs get cleared periodically, as they are only used for server troubleshooting, and improving our services.
+
+--WHAT INFORMATION DO WE COLLECT?--
+
+Information automatically collected
+In Short: Some information — such as IP address and/or browser and device characteristics — is collected automatically when you use our Services.
+We automatically collect certain information when you visit, use or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.
+
+--HOW DO WE USE YOUR INFORMATION?--
+
+In Short: We process your information for purposes based on legitimate interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.
+We use information collected via our Services for a few purposes described below. We process your personal information for these purposes in reliance on our legitimate interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below.
+
+We use the information we collect or receive:
+To maintain our Services. We may use your information as part of our efforts to keep our Services safe, secure, and operational (for example, for error detection and troubleshooting, and to patch any data leaks detected in the future).
+To deliver services to the user. We may use your information to provide you with the requested service.
+
+--HOW LONG DO WE KEEP YOUR INFORMATION?--
+
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than 30 days.
+When we need to process your collected information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+--DO WE MAKE UPDATES TO THIS POLICY?--
+
+Yes, we will update this policy as necessary to stay compliant with relevant laws.
+We may update this privacy notice from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
+
+--HOW CAN YOU CONTACT US ABOUT THIS POLICY?--
+
+If you have questions or comments about this policy, you may email us at nullnvoid@mailfence.com.
+
+--HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?--
+
+Based on the laws of some countries, you may have the right to request access to the information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request by emailing us at nullnvoid@mailfence.com. We will respond to your request within 30 days.
+
+
+--end--
