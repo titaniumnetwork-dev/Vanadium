@@ -2,6 +2,7 @@
     "port": "8080",
     "ssl": false,
     "prefix": "/search/",
+    "codec": "xor",
     "localAddresses": [],
     "blockedHostnames": ["pornhub.com", "xvideos.com", "murrtube.net"]
 }
