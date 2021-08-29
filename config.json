@@ -4,5 +4,5 @@
     "prefix": "/search/",
     "codec": "xor",
     "localAddresses": [],
-    "blockedHostnames": ["pornhub.com", "xvideos.com", "murrtube.net"]
+    "blockedHostnames": []
 }
