@@ -1,4 +1,0 @@
-(6/14/21):
-  -Added Changelog
-  -Fixed some issues with scaling
-  -Optimized some JS
