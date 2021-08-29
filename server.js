@@ -6,7 +6,7 @@ const http = require('http'),
     Corrosion = require('corrosion'),
     proxy = new Corrosion({
         prefix: config.prefix,
-        codec: config.xor
+        codec: xor
     }),
     app = (req, res) => {
         if (req.url.startsWith(config.prefix)) return proxy.request(req, res);
