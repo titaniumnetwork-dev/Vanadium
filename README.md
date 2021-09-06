@@ -6,7 +6,7 @@ A traditional proxy site for use in combating web filters.
 ## Setup
 
 ```sh
-git clone `https://github.com/titaniumnetwork-dev/Vanadium`
+git clone https://github.com/titaniumnetwork-dev/Vanadium
 cd Vanadium
 npm start
 ```
