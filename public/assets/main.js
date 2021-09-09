@@ -33,11 +33,13 @@ try {
 } catch {
     // Catch Media Page
     console.log("Could not load Index elements, assuming user is on media or media frame.");
+    function mailMaintainer() {window.location.href = `mailto:nullnvoid@mailfence.com?subject=Takedown Request For ${window.location.origin}`;}
     try {
         //Media Search
         document.getElementById("gSearch").addEventListener("input", () => {
             for (i = 0; i < document.getElementById("gMenu").getElementsByTagName("li").length; i++) document.getElementById("gMenu").getElementsByTagName("li")[i].style.display = -1 < document.getElementById("gMenu").getElementsByTagName("li")[i].getElementsByTagName("a")[0].innerHTML.toUpperCase().indexOf(document.getElementById("gSearch").value.toUpperCase()) ? "" : "none"
         })
+
     } catch {}
 }
 // Page Detection End
