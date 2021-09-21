@@ -24,5 +24,5 @@ app.use('/', gamermode);
 https.createServer({
 	  key: fs.readFileSync('./ssl/default.key'),
 	cert: fs.readFileSync('./ssl/default.crt')}, app)
-	.listen(config.port, function () {console.log(`Hacker proxy running at http://localhost:${config.port}`)});
+	.listen(process.env.PORT || config.port, function () {console.log(`Hacker proxy running at http://localhost:${config.port}`)});
 //Remove this if self-signed SSL is a problem for you.
