@@ -15,14 +15,12 @@ const http = require('http'),
         req.query = {};};
 app.use('/', express.static(__dirname + '/public'));
 app.use('/', gamermode);
-
-//This is the simple HTTP server. Remove the HTTPS server and use this if you encounter errors.
-//
-//app.listen(config.port, () => {console.log(`Hacker proxy running at http://localhost:${config.port}`)});
+// Simple HTTP server.
+app.listen(process.env.PORT || config.port, () => {console.log(`Hacker proxy running at http://localhost:${config.port}`)});
  
-// This is the HTTPS server.
-https.createServer({
-	  key: fs.readFileSync('./ssl/default.key'),
-	cert: fs.readFileSync('./ssl/default.crt')}, app)
-	.listen(process.env.PORT || config.port, function () {console.log(`Hacker proxy running at http://localhost:${config.port}`)});
+// This is the HTTPS server. (use this if you are self-hosting)
+//https.createServer({
+//	  key: fs.readFileSync('./ssl/default.key'),
+//	cert: fs.readFileSync('./ssl/default.crt')}, app)
+//	.listen(process.env.PORT || config.port, function () {console.log(`Hacker proxy running at http://localhost:${config.port}`)});
 //Remove this if self-signed SSL is a problem for you.
