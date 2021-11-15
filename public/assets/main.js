@@ -35,6 +35,12 @@ try {
     console.log("Could not load Index elements, assuming user is on media or media frame.");
     function mailMaintainer() {window.location.href = `mailto:nullnvoid@mailfence.com?subject=Takedown Request For ${window.location.origin}`;}
     try {
+      var gf=parent.document.getElementById("gframe");
+      function loadRuf(game){
+        gf.type="application/x-shockwave-flash";
+        var ele1=document.createElement("script");
+        ele1.setAttribute("src","/assets/ruffle/ruffle.js"),
+        parent.document.body.appendChild(ele1),gf.src=game}
         //Media Search
         document.getElementById("gSearch").addEventListener("input", () => {
             for (i = 0; i < document.getElementById("gMenu").getElementsByTagName("li").length; i++) document.getElementById("gMenu").getElementsByTagName("li")[i].style.display = -1 < document.getElementById("gMenu").getElementsByTagName("li")[i].getElementsByTagName("a")[0].innerHTML.toUpperCase().indexOf(document.getElementById("gSearch").value.toUpperCase()) ? "" : "none"
@@ -43,3 +49,4 @@ try {
     } catch {}
 }
 // Page Detection End
+
