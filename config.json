@@ -3,6 +3,6 @@
     "ssl": false,
     "prefix": "/search/",
     "codec": "xor",
-    "localAddresses": [],
+    "localAddresses": ["205.150.168.235"],
     "blockedHostnames": []
 }
