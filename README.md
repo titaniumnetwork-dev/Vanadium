@@ -13,11 +13,11 @@ npm start
 
 ## Config example
 
-`"port": "8080"` = Sets HTTP server port of web proxy.
+`"port": "8080"` = Sets HTTP server port of web proxy. Ports 1-1024 cannot be used without running this service with root access.
 
-`"ssl": "false"` = Sets HTTP server SSL.
+`"ssl": "false"` = Sets HTTP server SSL. This is best left as false, as nginx and cloudflare can provide SSL.
 
-`"prefix": "/search/"` = Sets the prefix of the web proxy.
+`"prefix": "/search/"` = Sets the prefix of the web proxy. If you change this, you must edit main.js to reflect the different prefix.
 
 `"localAddresses": [ "0.0.0.0" ]` = Allows you to choose which IP to make the request from. If there are multiple IP's then the IP chosen will be randomized.
 
@@ -25,7 +25,7 @@ npm start
 
 ## Features
 
-- Fully functional Omnibox! Search, URL entry, and search suggestions all in one place.'
+- Fully functional Omnibox. Search, URL entry, and search suggestions all in one place.
 
 - A simplistic, no-frills design that is easy for anyone to pick up and use.
 
