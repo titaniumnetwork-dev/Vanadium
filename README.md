@@ -3,9 +3,12 @@ A traditional proxy site for use in combating web filters.
 
 <img src="/vanadium.png">
 
+## Setup
+
+### Automatic Deployment:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/Vanadium/tree/main)
 
-## Setup
+### Manual Deployment (for use on your own Linux server):
 
 ```sh
 git clone https://github.com/titaniumnetwork-dev/Vanadium
