@@ -7,7 +7,8 @@ A traditional proxy site for use in combating web filters.
 
 ### Automatic Deployment:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/Vanadium/tree/main)
-[![Deploy](https://raw.githubusercontent.com/QuiteAFancyEmerald/HolyUnblockerPublic/master/views/assets/img/replit.svg?raw)](https://repl.it/github/titaniumnetwork-dev/Vanadium)
+
+[![Deploy To Repl.it](#)](https://repl.it/github/titaniumnetwork-dev/Vanadium)
 
 ### Manual Deployment (for use on your own Linux server):
 
