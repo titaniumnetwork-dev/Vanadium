@@ -6,7 +6,7 @@ A traditional proxy site for use in combating web filters.
 ## Setup
 
 ### Automatic Deployment:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/Vanadium/tree/main) [![Deploy](#)](https://raw.githubusercontent.com/titaniumnetwork-dev/Vanadium/main/replit.svg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/Vanadium/tree/main) [![Deploy](https://raw.githubusercontent.com/titaniumnetwork-dev/Vanadium/main/replit.svg)](https://repl.it/github/titaniumnetwork-dev/Vanadium)
 
 ### Manual Deployment (for use on your own Linux server):
 
