@@ -13,6 +13,7 @@ A traditional proxy site for use in combating web filters.
 ```sh
 git clone https://github.com/titaniumnetwork-dev/Vanadium
 cd Vanadium
+npm install
 npm start
 ```
 
